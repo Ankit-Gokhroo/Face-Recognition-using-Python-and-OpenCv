@@ -1,0 +1,5 @@
+1.create dataset -- dataset creater
+
+2.train the recoginizer -- trainner
+
+3.detecter -- detecter
